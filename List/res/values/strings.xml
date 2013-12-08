@@ -4,7 +4,9 @@
     <string name="app_name">List</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-        <string name="pleaseinput"></string>
+    <string name="pleaseinput">ああああ</string>
     
+    <string name="detail">詳細</string>
+    <string name="nodata">データがありません。</string>
 
 </resources>
